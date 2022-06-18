@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6b24e9d7561713f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "623ab26ee6d8d397",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-06-18-testing-automation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b486b030ea646a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f32af4ae1d0791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7cba0bf4c062f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c2b80aa0c7a180e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0de3ea038d67a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "95331f8d94ab2dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d8a5ee055cb462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-06-18-testing-automation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "623ab26ee6d8d397",
+  "lastOpenFiles": [
+    "2022-06-18-testing-automation.md"
+  ]
+}
