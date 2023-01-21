@@ -1,0 +1,36 @@
+#+title:      Thinking Fast and Slow
+#+date:       [2023-01-21 Sat 12:01]
+#+filetags:   :philosophy:psychology:
+#+identifier: 20230121T120108
+#+options: toc:nil
+#+html_head: <link rel=stylesheet href=style.css> 
+
+
+* Psychology and Psychoanalysis
+
+
+When Kahneman writes in his introduction, (Pg: 7 Ln: 5) about an experiment where the reseblence of a persons characteristics to the stereotypical characteristics of a particular profession increases the chances of others considering as professing said profession presents an interesting insight into Psychoanalysis and into Zizek's ideas.
+
+The problem that Kahneman presented to his sample was
+
+#+begin_quote
+Steve is very shy and withdrawn invariably helpful but with little interest in people or in the world of reality. A meek and tidy soul, he has need for order and structure and a passion for detail. *Is Steve more likely to be a Librarian or a Farmer*
+#+end_quote
+
+Psychologically, as Kahneman explains the results of this experiment, he says that the answer of many of the participants was that the Steve is more likely to be a Librarian than a Farmer. Although the larger point that he was making here is that the while taking this decision the participants did not take into mind statistical considerations, that is to say that the statistically there are 20 more farmers in America over each male librarian therefore the probability of a meek and tidy soul to also be a farmer is greater than that of being a librarian.
+
+Nevertheless the interesting point is how we are able to instantaneously take predictable decisions on such tricky subjects. Zizek would look at this and say *"Ideology"*
+
+* Ideology and Decision Making
+
+My writing here today is not to critically analyse the ideas of Zizek. Infact /currently/ I donot have the intellectual capabilities to understanding and fully appriciate his work. But what stuck with me while reading his *Sublime Object of Ideology* was the idea of /"They dont know it, but they are doing it"/.
+
+Thus while reading about Kahneman's text "Thinking Fast and Slow" I was prompted to think in that direction (Zizek's idea) when he was presenting the experiment.
+
+Zizek in the first part of his chapter on the surprising homology between Freudian and Marxian ideas (where he refers to the symptom or the latent dream thoughts) talks about how ideology is the /social reality whose very existence implies the non-knowledge of its participants as to its essence/. Similarly he writes that /the measure of its interpretation is precisely in its dissolution/
+
+Here Zizek points out both the ideas that Kahnemans experiment presents. On the one handhe explains that the ability of humans to take such spontenuous decisions about the social perception of people is because of ideology. And ideology works because it is not known by those that practise, thus the practitioner (the participants of the sample) though practice "ideology" (distinction and discrimination on basis of external characterists is a very important part of ideology) are oblivious of this force.
+
+And the other point which Kahneman raises about the absence of /relevant statistical considerations/ while making decisions is another characteristic of "Ideology" where /the measure of its interpretation is precisely in its dissolution/ or as Zizek explains the subject can enjoy his "symptom" only when logic escapes him. Thus in order for the subject or the participants to take complete advantage of "Ideology" in its true form, they must forgo any and all logical considerations. Zizek further explains while quoting French intellectual Sohn Rethel that ... /possible only when the individuals partaking in it are not aware of its proper logic... if we come to know too much to pierce the true functioning of social reality this reality would dissolve into itself/
+
+Thus presenting a psychoanalytical view on the psychological problem of segregagtion through resemblence and stereotypes.
